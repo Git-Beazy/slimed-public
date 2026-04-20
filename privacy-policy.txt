@@ -1,0 +1,125 @@
+PRIVACY POLICY
+1. Introduction
+This privacy policy explains how Beazy respects the privacy of information about you and upholds your rights to privacy under the General Data Protection Regulation (GDPR) (if you are in the EU or UK), the Privacy Act 1988 (if you are in Australia), and other applicable data protection laws.
+This policy applies to your use of the Slimed application (available on mobile and web) and any related services we provide. This policy does not apply to our personnel and job applicants. Please contact human resources for privacy details applicable in that case.
+2. When does Beazy collect personal information about me?
+Most of the personal information we hold about you is provided directly to us by you, for example:
+	•	when you register for an account on the Slimed app (via email and password, or through a social login provider such as Google or Apple);
+	•	when you set up or update your user profile;
+	•	when you make in-app purchases or subscribe to a paid plan;
+	•	when you contact us by email or otherwise; or
+	•	when you respond to a survey or promotion from us; or
+	•	automatically, when you grant location permission and are near a beacon – the app will record your precise location (GPS coordinates) each time you come within range of a beacon, until you become “Slimed”. To become Slimed, you must hold the Slime alone for more than two minutes. Once you are Slimed, we stop recording your location. If you are not yet Slimed, we will continue to record your location each time you come within range of a beacon.
+
+In some instances we may also obtain personal information indirectly, such as:
+	•	from social login providers (e.g. Google or Apple), who may share your name, email address, and profile picture when you choose to sign in using their service; or
+	•	through analytical data about your use of the Slimed app, which we use solely for the purposes of improving our products.
+3. What personal information about me does Beazy collect?
+The types of personal information we collect include:
+	•	name;
+	•	email address;
+	•	username and password;
+	•	user profile image or avatar;
+	•	precise location data (GPS coordinates), collected each time you come within range of a beacon, until you become Slimed (i.e. you have held the Slime alone for more than two minutes). Once you are Slimed, location collection stops. This data is used to enable nearby user and content features and to determine Slimed status;
+	•	transaction details associated with your in-app purchases or subscriptions;
+	•	any additional information you provide to us through correspondence or customer surveys; and
+	•	analytical data about your use of the Slimed app, which we use solely for the purposes of improving our products.
+
+We do not collect any sensitive information (i.e. racial or ethnic origin, political opinions, political or occupational memberships, religious or philosophical beliefs or affiliations, sexual beliefs or practices, criminal record, health or genetic or biometric characteristics).
+4. Children under 16
+The Slimed app is available to users under the age of 16. Where a child under 16 wishes to use Slimed, we require consent to them doing so from a parent (or other person with the relevant legal authority) in a form acceptable to us.
+If you are a parent of a child under 16 who is a user of Slimed, then you may request access to, correction of, or deletion of personal information we hold in relation to your child. Subject to us verifying that you are the parent, we will respond in the same way as described in section 10 below. You may also withdraw your consent to further collection of your child’s personal information, in which case we will cancel your child’s registration and they will cease to be able to use Slimed.
+5. What does Beazy do with my personal information?
+We use your personal information:
+	•	to provide the Slimed app and its features to you;
+	•	to create and manage your user account;
+	•	to process in-app purchases and subscriptions;
+	•	to assist with any enquiries you make with us;
+	•	to verify your identity and assist you if you have forgotten or lost your password;
+	•	to improve our products and develop new features;
+	•	for our internal administrative, planning, product development and research requirements;
+	•	to seek feedback from you about our products;
+	•	to track your proximity to beacons and determine whether you have become Slimed, which is the primary purpose for which we collect your precise location data. Specifically, we record your location each time you come within range of a beacon. We stop collecting location data once you become Slimed (i.e. you have held the Slime alone for more than two minutes); and
+	•	potentially, to protect our legal interests or in connection with a sale of our business or company.
+
+We will only send you transactional emails that are necessary for the operation of your account (e.g. password resets, account verification, purchase confirmations). We will not send you promotional or marketing emails.
+We do not undertake any automated decision making or profiling using your personal information.
+6. Disclosure and sale of personal information
+We do not disclose personal information about you to any person except:
+	•	where we have your express permission to do so;
+	•	to third-party service providers who help us to provide Slimed, including:
+
+Supabase – cloud database and authentication provider, used to securely store your account data;
+Stripe – payment processor, used to process in-app purchases and subscriptions;
+Apple (App Store) and Google (Google Play) – in-app billing providers, used to process purchases made through their respective platforms;
+Google and Apple (social login) – authentication providers, used when you choose to sign in via their services;
+
+All disclosures to service providers are subject to us being satisfied about their reputation, and the service provider agreeing to keep personal information confidential.
+
+	•	if required by law;
+	•	if in our opinion it is necessary or desirable in order to protect the health or safety of any person (including you) or to prevent, report or investigate the damage or destruction of any property or breach of any law;
+	•	in order to enforce or apply our terms and conditions or to protect the rights, property, or safety of Beazy, our personnel, customers or users; or
+	•	in connection with a sale or proposed sale of Beazy, or substantially all of its assets, to a third party, in which case we will ensure that any personal information about you that we disclose is protected by suitable constraints on use and disclosure.
+
+We will never sell your personal information.
+7. Withdrawing my consent
+Our use and disclosure of your personal information is based upon either or both of the following lawful bases:
+	•	you have consented; and
+	•	our legitimate interests (as described in section 5 above).
+
+Where you have consented, you have the right to withdraw your consent at any time by contacting us at the address below.
+Please note that if you do not provide some personal information, or withdraw your consent for us to use it, then we may be unable to provide one or more of our products to you. For example, without name and email details it may be impractical for us to provide Slimed to you.
+8. Storage and security
+We hold personal information electronically, primarily on secure servers operated by Supabase, currently hosted in Australia. In the future, we may utilise Supabase infrastructure in additional regions to improve performance for our global user base. If this occurs, we will update this policy accordingly.
+We treat the security of the personal information that we hold seriously. We take reasonable steps to protect it, including by using internal and external security measures, restricting access within our organisation to those who have a need to know, and implementing and maintaining technology to protect against unauthorised access. We regularly review our technology to maintain security.
+9. Overseas transfer
+As we serve a global user base, personal information may be transferred to or accessed from countries outside Australia in the following circumstances:
+	•	where you use Slimed outside Australia, in which case personal information may be sent to your device in connection with your use of the app;
+	•	in the course of processing payments, as Stripe may process data on servers located in the United States;
+	•	in the course of sending transactional emails to you, as these may be sent from servers outside Australia; and
+	•	if we expand our Supabase hosting to additional regions in the future.
+10. Access and correction
+You have the right to request access to personal information we hold about you at no cost (unless we notify you otherwise), and may do so by writing to us at the address below. Please provide sufficient detail about the information in question to help us locate it.
+Except where we have reasonable grounds for refusing (e.g. disclosure would breach the law or would involve disclosing personal information about someone else), within one month of receipt of your request we will provide you with access. If we refuse your request then we will give you a written statement setting out the reasons for the refusal (unless unreasonable to give them), and the process we provide if you wish to complain about the refusal.
+We will provide access in the form you request if it is reasonable and practicable to do so.
+You have the right to request correction of personal information that we hold about you if you think it is inaccurate. If you believe that personal information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, then you may request amendment of it by writing to us at the address below. We will consider your request and respond to you within one month of receipt of your request. If we do not agree with the amendment, then we will add a note to the personal information stating that you disagree with it and will also give you a written statement setting out the reasons for the refusal (unless unreasonable to give them), and the process we provide if you wish to complain about the refusal.
+In some circumstances you have the right to require that we transfer your personal information to you or another organisation in a standard format (i.e. data portability).
+11. Deletion
+We will delete or de-identify personal information that we hold about you when any of the following occurs:
+	•	when requested by you, unless by law we may retain it for a further period – and in either case we will notify you within one month of receipt of your request of any action taken;
+	•	when it is no longer needed for any purpose for which we may use it; or
+	•	automatically 3 years after your last interaction with us or Slimed.
+
+In some circumstances you can object to us processing your personal information, in which case we may elect to delete it.
+12. Our contact details
+Our contact details are:
+
+Beazy Pty Ltd
+[Street address]
+Phone: [Phone number]
+Email: [Email address]
+13. Complaints
+Any questions about this policy, or any complaint regarding treatment of your privacy, should be made by mail or email to the address above.
+If you lodge a complaint, we will let you know the name of the individual responsible for taking care of it, and will tell you when we will provide a full response.
+If we do not resolve a complaint to your satisfaction then we encourage you to contact us to explain why, or you may raise your complaint with the relevant regulator:
+
+Australia
+Office of the Australian Information Commissioner (OAIC)
+Phone: 1300 363 992
+Email: enquiries@oaic.gov.au
+Mail: GPO Box 5218, Sydney NSW 2001
+Website: www.oaic.gov.au/privacy
+
+United Kingdom
+Information Commissioner’s Office
+Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF
+Helpline: 0303 123 1113
+Website: www.ico.org.uk
+
+European Union
+You may contact the data protection authority in your EU member state of residence.
+14. Definitions
+In this policy: including means “including but not limited to”; personal information means information or an opinion about an identified individual, or an individual who is directly or indirectly identifiable; products means the goods, services and other products (including the Slimed application) that we provide; Beazy means Beazy Pty Ltd (ACN [INSERT ACN]), its subsidiaries and other related bodies corporate.
+15. Changes to this policy
+This policy represents our policy as at [INSERT DATE].
+We may change this policy from time to time, with or without prior notice to you, by posting the updated version on our website and within the Slimed app. Your continued use of Slimed following any changes indicates your acceptance of the updated policy.
