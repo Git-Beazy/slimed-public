@@ -1,0 +1,215 @@
+SLIMED
+
+END USER LICENCE AGREEMENT
+Last updated: June 2025
+
+Our App, as made available to you through the App Store, is licensed to you, not sold to you. Your licence for the App is subject to your prior acceptance of this End User Licence Agreement ("EULA") between you and BEAZY PTY LTD ACN 697 179 472 ("we", "us", "our") and is granted to you by us, not Apple. We reserve all rights in and to the App not expressly granted to you under this EULA.
+
+ 
+
+1. Licence
+
+1.1 Scope
+
+This licence granted to you for the App by us is limited to a non-transferable licence to use the App on any Permitted Device that you own or control and as permitted by the Usage Rules.
+
+Without limiting the Usage Rules, the App is only licensed to you for personal, non-commercial use. You acknowledge that the services we provide under our Terms of Service (which does not form part of this EULA) are necessary in order for you to make use of the intended functionality of the App and that you will need to create an account and accept those terms to receive those services and use that functionality.
+
+You and we acknowledge that this EULA is between you and us (and not Apple), and that Apple is not responsible for the App or its content.
+
+The terms of this licence will govern any upgrades provided by us that replace and/or supplement our original App, unless such upgrade is accompanied by a separate licence in which case the terms of that licence will apply.
+
+1.2 Age Requirement
+
+You must be at least 16 years of age to use the App. By accepting this EULA and creating an account, you represent and warrant that you are 16 years of age or older. If you are between 16 and 18 years of age, you represent that your parent or legal guardian has reviewed and agreed to this EULA on your behalf. We reserve the right to terminate any account we reasonably believe belongs to a user under 16 years of age.
+
+1.3 Prohibitions
+
+This licence does not allow you to use the App on any device that you do not own or control, and except as provided in the Usage Rules, you must not distribute or make the App available over a network where it could be used by multiple devices at the same time.
+
+Except to the extent, if any, that applicable laws prevent us restraining you from doing so, you must not rent, lease, lend, sell, transfer, redistribute, or sublicense the App and, if you sell your device to a third party, you must remove the App from the device before doing so.
+
+You must not copy (except as expressly permitted by this EULA and the Usage Rules), decompile, reverse-engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the App, any updates, or any part thereof (except as and only to the extent that any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open-sourced components included with the App). Any attempt to do so is a violation of our rights. If you breach this restriction, you may be subject to prosecution and damages.
+
+1.4 Support and Maintenance
+
+Except to the extent (if any) required by law, neither we nor Apple is obliged to provide any maintenance or support for the App under this EULA or otherwise.
+
+1.5 Apple's Rights
+
+You and we acknowledge that Apple, and Apple's subsidiaries, are third party beneficiaries of this EULA, and that upon your acceptance of the terms and conditions of this EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third party beneficiary thereof.
+
+ 
+
+2. User Accounts
+
+To use the App, you must create an account. You agree to provide accurate, current, and complete information during registration and to update such information to keep it accurate, current, and complete. You are responsible for safeguarding the password that you use to access the App and for any activities or actions under your account. You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorised use of your account.
+
+ 
+
+3. The Slimed Beacon
+
+The Slimed physical beacon ("Beacon") is a separate product sold by us. These are the terms governing use of the App in conjunction with a Beacon:
+
+• The Beacon is a physical device intended to be placed among another person's belongings as part of the Slimed game. You are solely responsible for how you use, place, transfer, or dispose of the Beacon.
+• You must only use the Beacon in a manner that is lawful, respectful, and consistent with our Community Guidelines. You must not use the Beacon to stalk, harass, intimidate, or cause distress to any person.
+• You must not place the Beacon in a location or manner that could cause damage to property, injury to any person, or that would constitute trespass or any other unlawful act.
+• We take no responsibility or liability for any loss, damage, or injury (to persons or property) arising from your use, placement, or transfer of the Beacon. Use of the Beacon is entirely at your own risk.
+• You must not tamper with, modify, or attempt to reverse-engineer the Beacon hardware or firmware.
+ 
+
+4. User-Generated Content
+
+4.1 Your Content
+
+The App allows you to upload photographs and written messages ("User Content") that may be viewed by other users who receive the Beacon in the game chain. You retain ownership of any intellectual property rights that you hold in your User Content. By submitting User Content, you grant us a worldwide, non-exclusive, royalty-free licence to use, store, display, reproduce, and distribute your User Content solely for the purpose of operating and improving the App.
+
+4.2 Content Standards
+
+All User Content must comply with our Community Guidelines (available at slimed.app/community-guidelines). Without limiting those guidelines, you must not upload or submit User Content that:
+
+• is sexually explicit, obscene, or pornographic;
+• depicts or encourages violence, self-harm, or harm to others;
+• is defamatory, harassing, threatening, abusive, or discriminatory on the basis of race, ethnicity, religion, gender, sexual orientation, disability, or any other characteristic;
+• depicts or involves minors in any inappropriate context;
+• infringes the intellectual property rights, privacy rights, or other rights of any third party;
+• contains personal information of another person without their consent;
+• constitutes spam, misinformation, or any other content prohibited by our Community Guidelines or applicable law.
+We reserve the right (but are not obligated) to review, remove, or restrict access to any User Content that we determine, in our sole discretion, violates this EULA or our Community Guidelines.
+
+4.3 Reporting
+
+We provide in-app reporting and blocking tools. If you encounter User Content that you believe violates this EULA or our Community Guidelines, you should use the in-app reporting function. We will review reported content and take action where we determine it is appropriate in accordance with our Community Guidelines and applicable law, including the Online Safety Act 2021 (Cth).
+
+4.4 Content Responsibility
+
+You are solely responsible for your User Content and the consequences of sharing it. We do not endorse any User Content or any opinion, recommendation, or advice expressed therein, and to the full extent permitted by law, we expressly disclaim all liability in connection with User Content.
+
+ 
+
+5. Consent to Use of Data
+
+Without limiting our Privacy Policy, you agree that we may collect and use the following data in connection with your use of the App:
+
+• Technical data about your device, system, application software, and peripherals, to facilitate software updates, product support, and other services;
+• Location data, specifically the approximate location at which you transfer a Beacon to another user. This data is collected at the point of Beacon transfer and is stored on our servers. It may be visible to other users in the Beacon's game chain. You may review our Privacy Policy at slimed.app/privacy for further information on how we handle location data;
+• Usage data and analytics to help us understand how the App is used and to improve its functionality.
+By using the App, you consent to the collection and use of your data as described in this EULA and in our Privacy Policy.
+
+ 
+
+6. Termination
+
+This licence is effective until terminated by you or us. Your rights under this licence will terminate automatically without notice from us if you fail to comply with any term(s) of this licence, including but not limited to the content standards in clause 4.2. Upon termination of the licence, you must cease all use of the App and destroy all copies, full or partial, of the App.
+
+We may also suspend or terminate your account at any time if we reasonably believe you have violated this EULA or our Community Guidelines, or if required to do so by law.
+
+ 
+
+7. External Services and Third-Party Materials
+
+Our App may enable access to third-party services and websites ("External Services"). Use of the External Services requires internet access and use of certain External Services requires you to accept additional terms. You must comply with those additional terms when using our App.
+
+We are not responsible for examining or evaluating the content, accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect of such third-party materials or websites. We do not warrant or endorse and, to the full extent permitted by law, do not assume and will not have any liability or responsibility to you or any other person for any third-party services, materials, or websites.
+
+We reserve the right to change, suspend, remove, or disable access to any External Services at any time without notice.
+
+ 
+
+8. Paid Features
+
+The App is currently available free of charge. We may in the future introduce paid features, subscriptions, or in-app purchases. If we do so, we will notify you in advance, and any such paid features will be subject to additional terms that we will make available to you at that time. Apple's standard payment and refund policies will apply to any purchases made through the App Store.
+
+ 
+
+9. Warranties
+
+9.1 Mandatory Rights Not Affected
+
+IN AUSTRALIA, STATUTORY CONSUMER PROTECTION LAWS, INCLUDING THE COMPETITION AND CONSUMER ACT 2010 (CTH), GIVE YOU RIGHTS WHICH CANNOT BE EXCLUDED, INCLUDING CONSUMER GUARANTEES AS TO ACCEPTABLE QUALITY AND FITNESS FOR PURPOSE. CLAUSES 9 AND 10 OF THIS EULA ARE SUBJECT TO THE RIGHTS YOU HAVE UNDER THAT LEGISLATION.
+
+9.2 No Warranty
+
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF OUR APP IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND EFFORT IS WITH YOU. OUR APP AND ANY SERVICES PERFORMED OR PROVIDED BY OR THROUGH OUR APP ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND (TO THE EXTENT PERMITTED BY LAW) WE HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO OUR APP AND ANY SERVICES, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND OF NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. WE DO NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF OUR APP, THAT THE FUNCTIONS CONTAINED IN OR SERVICES PERFORMED BY OUR APP WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF OUR APP OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN OUR APP WILL BE CORRECTED.
+
+9.3 Refund
+
+If our App does not conform with a warranty (if any) applicable under this EULA or by law (to the extent not excluded), you may notify Apple, and Apple will refund the purchase price (if any) for our App to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation of any kind with respect to our App.
+
+ 
+
+10. Limitation of Liability
+
+10.1 General Limitation
+
+IN NO EVENT SHALL WE BE LIABLE FOR PERSONAL INJURY OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO: (A) YOUR USE OR INABILITY TO USE OUR APP; (B) YOUR USE, PLACEMENT, OR TRANSFER OF A BEACON; OR (C) ANY USER CONTENT SUBMITTED BY YOU OR OTHER USERS. IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES (OTHER THAN AS MAY BE REQUIRED BY APPLICABLE LAW) EXCEED THE AMOUNT OF A$50.00.
+
+10.2 Mandatory Rights
+
+IF WE ARE LIABLE TO YOU UNDER AUSTRALIA'S COMPETITION AND CONSUMER ACT 2010 OR SIMILAR AUSTRALIAN STATE LEGISLATION, THEN TO THE EXTENT THAT WE ARE ENTITLED TO DO SO, WE LIMIT OUR LIABILITY IN RESPECT OF ANY CLAIM UNDER THOSE PROVISIONS TO: IN THE CASE OF GOODS, AT OUR OPTION: THE REPLACEMENT OF THE GOODS OR THE SUPPLY OF EQUIVALENT GOODS; THE REPAIR OF THE GOODS; OR THE PAYMENT OF THE COST OF REPLACING OR REPAIRING THE GOODS; AND IN THE CASE OF SERVICES, AT OUR OPTION: THE SUPPLYING OF THE SERVICES AGAIN; OR THE PAYMENT OF THE COST OF HAVING THE SERVICES SUPPLIED AGAIN.
+
+10.3 Responsibility for Claims
+
+You and we agree that we (and not Apple) are responsible for addressing any claim by you or any third party relating to our App or your possession and/or use of our App, including: (i) product liability claims; (ii) any claim that our App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+
+ 
+
+11. Online Safety
+
+We are committed to complying with the Online Safety Act 2021 (Cth) and applicable online safety standards. We maintain in-app tools for users to report harmful content and to block other users. We will take reasonable steps to address reports of harmful content in accordance with our Community Guidelines and applicable law. If you encounter content that you believe constitutes seriously harmful material as defined under the Online Safety Act 2021, you may also report it directly to the eSafety Commissioner at esafety.gov.au.
+
+ 
+
+12. Intellectual Property
+
+The App and all content and materials included in or made available through it (excluding User Content), including but not limited to text, graphics, logos, button icons, images, audio clips, and software, are the property of BEAZY PTY LTD or its licensors and are protected by Australian and international intellectual property laws. You must not reproduce, distribute, modify, create derivative works of, publicly display, or otherwise exploit any of our intellectual property without our prior written consent.
+
+ 
+
+13. Export Restrictions
+
+You must not use or otherwise export or re-export our App except as authorised by applicable law. Without limiting the foregoing, you represent and warrant that you are not located in a country that is subject to an Australian, US, or UN embargo, and you are not listed on any Australian, US, or international list of prohibited or restricted parties.
+
+ 
+
+14. Contact Details
+
+If you have any questions, complaints, or claims with respect to our App, please direct them to us (not Apple) as follows:
+
+BEAZY PTY LTD
+
+66 Pleasant Road, Hawthorn East, Melbourne VIC 3123, Australia
+
+Email: sebastian@beazy.com.au
+
+ 
+
+15. Applicable Law
+
+The laws of Victoria, Australia govern this EULA and your use of our App. You and we submit to the non-exclusive jurisdiction of the courts of Victoria and the courts competent to hear appeals from those courts.
+
+ 
+
+16. Definitions
+
+In this EULA the following phrases have the following meanings:
+
+App means the application known on the App Store as Slimed.
+
+Apple has the same meaning as in the Apple Media Services Terms and Conditions of Apple Inc., located at 1 Infinite Loop, Cupertino, California.
+
+Beacon means the physical Slimed beacon device sold separately by BEAZY PTY LTD.
+
+Community Guidelines means the community guidelines published by us at slimed.app/community-guidelines, as updated from time to time.
+
+Device means any Apple-branded product running iOS (including iPhone and iPad).
+
+Permitted Device means Apple-branded products running iOS.
+
+Privacy Policy means our privacy policy published at slimed.app/privacy.
+
+Store means the App Store service provided by Apple.
+
+Usage Rules means the usage rules set out in Apple's Media Services Terms and Conditions.
+
+User Content means any photographs, text, messages, or other content uploaded or submitted by you through the App.
