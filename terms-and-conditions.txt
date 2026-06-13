@@ -21,7 +21,7 @@ The terms of this licence will govern any upgrades provided by us that replace a
 
 1.2 Age Requirement
 
-You must be at least 16 years of age to use the App. By accepting this EULA and creating an account, you represent and warrant that you are 16 years of age or older. If you are between 16 and 18 years of age, you represent that your parent or legal guardian has reviewed and agreed to this EULA on your behalf. We reserve the right to terminate any account we reasonably believe belongs to a user under 16 years of age.
+You must be at least 18 years of age to use the App. By accepting this EULA and creating an account, you represent and warrant that you are 18 years of age or older. Because the App displays the approximate location at which a Beacon is transferred — including coordinates that may be shown on a map visible to other users in the Beacon's game chain — the App is intended for adults only and is not directed to minors. We reserve the right to terminate any account we reasonably believe belongs to a user under 18 years of age.
 
 1.3 Prohibitions
 
@@ -92,7 +92,7 @@ You are solely responsible for your User Content and the consequences of sharing
 Without limiting our Privacy Policy, you agree that we may collect and use the following data in connection with your use of the App:
 
 • Technical data about your device, system, application software, and peripherals, to facilitate software updates, product support, and other services;
-• Location data, specifically the approximate location at which you transfer a Beacon to another user. This data is collected at the point of Beacon transfer and is stored on our servers. It may be visible to other users in the Beacon's game chain. You may review our Privacy Policy at slimed.app/privacy for further information on how we handle location data;
+• Location data, specifically the approximate location at which you transfer a Beacon to another user. This data is collected at the point of Beacon transfer and is stored on our servers. It is displayed as coordinates on a map that is visible to other users in the Beacon's game chain, and accordingly is semi-public in nature. You acknowledge and accept that other users will be able to see the approximate location at which you transferred a Beacon. You may review our Privacy Policy at slimed.app/privacy for further information on how we handle location data;
 • Usage data and analytics to help us understand how the App is used and to improve its functionality.
 By using the App, you consent to the collection and use of your data as described in this EULA and in our Privacy Policy.
 

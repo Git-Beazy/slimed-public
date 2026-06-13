@@ -20,15 +20,15 @@ The types of personal information we collect include:
 	•	email address;
 	•	username and password;
 	•	user profile image or avatar;
-	•	precise location data (GPS coordinates), collected each time you come within range of a beacon, until you become Slimed (i.e. you have held the Slime alone for more than two minutes). Once you are Slimed, location collection stops. This data is used to enable nearby user and content features and to determine Slimed status;
+	•	precise location data (GPS coordinates), collected each time you come within range of a beacon, until you become Slimed (i.e. you have held the Slime alone for more than two minutes). Once you are Slimed, location collection stops. This data is used to enable nearby user and content features and to determine Slimed status. The approximate location at which you pass a beacon on is displayed as coordinates on a map that is visible to other users in that beacon's game chain. This location information is therefore semi-public: other users in the chain will be able to see where a beacon was passed on. By using Slimed, you acknowledge and accept this;
 	•	transaction details associated with your in-app purchases or subscriptions;
 	•	any additional information you provide to us through correspondence or customer surveys; and
 	•	analytical data about your use of the Slimed app, which we use solely for the purposes of improving our products.
 
 We do not collect any sensitive information (i.e. racial or ethnic origin, political opinions, political or occupational memberships, religious or philosophical beliefs or affiliations, sexual beliefs or practices, criminal record, health or genetic or biometric characteristics).
-4. Children under 16
-The Slimed app is available to users under the age of 16. Where a child under 16 wishes to use Slimed, we require consent to them doing so from a parent (or other person with the relevant legal authority) in a form acceptable to us.
-If you are a parent of a child under 16 who is a user of Slimed, then you may request access to, correction of, or deletion of personal information we hold in relation to your child. Subject to us verifying that you are the parent, we will respond in the same way as described in section 10 below. You may also withdraw your consent to further collection of your child’s personal information, in which case we will cancel your child’s registration and they will cease to be able to use Slimed.
+4. Age restriction — 18 and over only
+Slimed is intended for adults only. You must be at least 18 years of age to use Slimed, and the app is not directed to anyone under 18. Because Slimed records and displays the approximate location at which a beacon is passed on — including coordinates shown on a map that is visible to other users in the beacon's game chain — we do not permit users under the age of 18 and do not knowingly collect personal information from them.
+If we become aware that we hold personal information collected from a person under the age of 18, we will take reasonable steps to delete that information and cancel the associated account. If you are a parent or guardian and you believe a person under 18 has provided us with personal information, please contact us at the address below and we will take steps to delete it.
 5. What does Beazy do with my personal information?
 We use your personal information:
 	•	to provide the Slimed app and its features to you;
@@ -47,6 +47,7 @@ We do not undertake any automated decision making or profiling using your person
 6. Disclosure and sale of personal information
 We do not disclose personal information about you to any person except:
 	•	where we have your express permission to do so;
+	•	to other users in a beacon's game chain, who can see the approximate location at which you passed that beacon on (displayed as coordinates on a map) together with any photos or messages you add to the beacon. This is an inherent feature of the game and you accept it by using Slimed;
 	•	to third-party service providers who help us to provide Slimed, including:
 
 Supabase – cloud database and authentication provider, used to securely store your account data;
@@ -121,5 +122,5 @@ You may contact the data protection authority in your EU member state of residen
 14. Definitions
 In this policy: including means “including but not limited to”; personal information means information or an opinion about an identified individual, or an individual who is directly or indirectly identifiable; products means the goods, services and other products (including the Slimed application) that we provide; Beazy means Beazy Pty Ltd (ACN 697 179 472), its subsidiaries and other related bodies corporate.
 15. Changes to this policy
-This policy represents our policy as at 8 June 2026.
+This policy represents our policy as at 13 June 2026.
 We may change this policy from time to time, with or without prior notice to you, by posting the updated version on our website and within the Slimed app. Your continued use of Slimed following any changes indicates your acceptance of the updated policy.

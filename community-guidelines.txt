@@ -98,13 +98,13 @@ Every beacon has a chain of people who have touched it. All of them can see what
 
 • Do not post photos that reveal someone's home address, workplace, or daily routine without their consent
 • Do not share personal information about other users that they have not chosen to make public
-• Location data is collected when you pass the beacon on. This is disclosed in our EULA and Privacy Policy. Do not attempt to use this data to track or locate other users outside the app
+• Location data is collected when you pass the beacon on, and the approximate location is shown as coordinates on a map that other users in the chain can see. This is semi-public within the chain and is disclosed in our EULA and Privacy Policy. Do not attempt to use this data to track, locate, follow, or identify other users, whether inside or outside the app
  
 
 7. Age and Vulnerable Users
 
-• You must be 16 or older to use Slimed. Do not assist anyone under 16 in creating an account or using the app
-• Do not direct sexual, violent, or otherwise inappropriate content at users who you know or suspect are under 18
+• Slimed is for adults only. You must be 18 or older to use Slimed. Do not assist anyone under 18 in creating an account or using the app
+• Do not direct sexual, violent, or otherwise inappropriate content at any user
 • Be mindful that people of different backgrounds and sensitivities are in the chain. What seems harmless to you may not land the same way for everyone
  
 
